@@ -24,6 +24,11 @@
 ```
 git clone https://github.com/soma2000-lang/Web-dev-mini-projects.git
 ```
+```
+if__name__=’__main__’;
+Python -m marbles
+Marbles_test.py
+```
 
 - Go to the directory
 - Run the index.html file by copying the file path and pasting it in your browser
