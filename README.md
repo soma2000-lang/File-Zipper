@@ -24,10 +24,10 @@
 ```
 git clone https://github.com/soma2000-lang/Web-dev-mini-projects.git
 ```
+
+
 ```
-if__name__=’__main__’;
-Python -m marbles
-Marbles_test.py
+
 ```
 
 - Go to the directory
@@ -40,4 +40,15 @@ Marbles_test.py
 
 
 <br>
+## Tables
+
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| id            |Unique question identifier.   |
+| text          |Question text.    |
+| type          |Response type. Default is the question. |
+| score         |Confidence score of the generated question. Value from 0 - 1. A score of 1 is likely an exact match, while a score of 0 means that no match was found.|
+| messageIds    |Unique message identifiers of the corresponding messages.object contains userId, name, and identifier of speaker|
+| from          |      |
+
 
