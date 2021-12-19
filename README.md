@@ -49,6 +49,6 @@ git clone https://github.com/soma2000-lang/Web-dev-mini-projects.git
 | type          |Response type. Default is the question. |
 | score         |Confidence score of the generated question. Value from 0 - 1. A score of 1 is likely an exact match, while a score of 0 means that no match was found.|
 | messageIds    |Unique message identifiers of the corresponding messages.object contains userId, name, and identifier of speaker|
-| from          |      |
+| from          | object contains userId, name and identifier of speaker     |
 
 
