@@ -22,7 +22,7 @@
 - Download or clone the repository
 
 ```
-git clone https://github.com/soma2000-lang/Web-dev-mini-projects.git
+git clone https://github.com/soma2000-lang/File-Zipper.git
 ```
 
 
