@@ -1,6 +1,6 @@
 <h1>File Zipper</h1>
 
-<p>An Awesome encoder and decoder.</p>
+<p>An Awesome encoder and decoder using  Huffman  algorithm</p>
 
 ### Use of the Project:
 
